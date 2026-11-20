@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Kiran 👋
 
-<!--
-**bhowmikkiran/bhowmikkiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PGDM student at IILM (New Delhi) focusing on **data analytics and Python development**, alongside working as a **freelance video editor** producing commercial and short-form vertical content. With a background in patent illustration and legal tech operations, I bring sharp attention to detail to both datasets and timelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tech Stack & Editing Tools
+* **Languages & Databases:** Python, SQL (MySQL)
+* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Excel
+* **Development Tools:** VS Code, Jupyter Notebooks, Git
+* **Video Editing:** CapCut, Adobe Photoshop & Camera Raw (thumbnails & assets)
+
+---
+
+#### 📌 Featured Projects
+* **Indian Electricity Demand & Renewable Energy Analysis (2019–2025):** Exploratory data analysis examining state-level energy trends and renewable adoption using `pandas` and `seaborn`.
+* **Graphical Chess & Console Blackjack:** Interactive Python games built from scratch to master object-oriented logic, state management, and Pygame rendering.
