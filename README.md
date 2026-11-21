@@ -14,4 +14,5 @@ I'm a PGDM student at IILM (New Delhi) focusing on **data analytics and Python d
 
 #### 📌 Featured Projects
 * **[Indian Electricity Demand & Renewable Energy Analysis (2013–2025)](https://github.com/bhowmikkiran/india-electricity-renewable-analysis):** Exploratory data analysis examining state-level energy trends and renewable adoption using `pandas`, `numpy`, `matplotlib` and `seaborn`.
+* **[Customer Loyalty & Churn-Risk Tracker (MySQL)](https://github.com/bhowmikkiran/customer-loyalty-sql-analysis):** Normalized (3NF) relational database with seven INNER JOIN queries to find at-risk customers, top spenders and campaign responders, built with `MySQL` and `SQL`.
 * **Graphical Chess & Console Blackjack:** Interactive Python games built from scratch to master object-oriented logic, state management, and Pygame rendering.
